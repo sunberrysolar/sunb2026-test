@@ -658,8 +658,22 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://sunberrysolar.github.io/sunb2026-test/questions-frequentes-sur-le-chauffage-solaire/</loc>
+		<lastmod>2026-05-24T04:36:02+02:00</lastmod>
+		<image:image>
+			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2020/04/fabriquer-chauffage-solaire-logo.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2019/08/eau-chaude-sanitaire-solaire-schema.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2019/04/panneaux-solaires-thermiques-diy-bretagne.jpg</image:loc>
+			<image:caption><![CDATA[panneaux-solaires-thermiques-diy-bretagne]]></image:caption>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://sunberrysolar.github.io/sunb2026-test/nouveaux-panneaux-thermiques-2025/</loc>
-		<lastmod>2025-11-19T15:22:08+01:00</lastmod>
+		<lastmod>2026-05-24T17:38:36+02:00</lastmod>
 		<image:image>
 			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/elementor/thumbs/capture-formation-chauffe-eau-solaire-p37lmyowm21oq2lgi52n5n5c54perngho84otyo0qg.png</image:loc>
 			<image:title><![CDATA[capture-formation-chauffe-eau-solaire]]></image:title>
@@ -792,20 +806,6 @@
 		<image:image>
 			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2019/03/sunberry-bio-a-la-une.jpeg</image:loc>
 			<image:caption><![CDATA[Sunberry bio a la une]]></image:caption>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://sunberrysolar.github.io/sunb2026-test/questions-frequentes-sur-le-chauffage-solaire/</loc>
-		<lastmod>2026-05-24T04:36:02+02:00</lastmod>
-		<image:image>
-			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2020/04/fabriquer-chauffage-solaire-logo.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2019/08/eau-chaude-sanitaire-solaire-schema.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://sunberrysolar.github.io/sunb2026-test/wp-content/uploads/2019/04/panneaux-solaires-thermiques-diy-bretagne.jpg</image:loc>
-			<image:caption><![CDATA[panneaux-solaires-thermiques-diy-bretagne]]></image:caption>
 		</image:image>
 	</url>
 </urlset>
